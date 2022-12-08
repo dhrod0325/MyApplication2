@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "784858316605",
+    "project_id": "push-test-46432",
+    "storage_bucket": "push-test-46432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784858316605:android:03562696711e234afe8f54",
+        "android_client_info": {
+          "package_name": "com.app.lotecsmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784858316605-63tagpccit3lo6g5b11jge9f4nq2dtj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwh6AwWbz6UEB9XbBSwZdqqLokMVwdss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784858316605-63tagpccit3lo6g5b11jge9f4nq2dtj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784858316605:android:1180e9f1f5e53991fe8f54",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784858316605-63tagpccit3lo6g5b11jge9f4nq2dtj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwh6AwWbz6UEB9XbBSwZdqqLokMVwdss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784858316605-63tagpccit3lo6g5b11jge9f4nq2dtj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
